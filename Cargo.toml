@@ -27,7 +27,6 @@ digest = "0.8.1"
 
 [dependencies.curv]
 git = "https://github.com/boazarad88/curv"
-tag = "v0.2.2"
 features = ["ec_secp256k1"]
 
 [dev-dependencies]
